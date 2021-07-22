@@ -1,9 +1,9 @@
-# ReadMe Generator
-    [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# ReadME-Generator
+    [![License]()]()
   
     ## Description
     
-     An application that will generate a new readMe file for users respository by asking questions. Once all the answers are fulfilled each section will be developed.
+    Using node and JS to create a Read Me. Answering questions
     
     ## Table of Content
     
@@ -15,7 +15,7 @@
     
     ## Installation-Instructions
     
-    npm install inquirer  
+    user must clone this project open terrminal in index.js run "node index.js"  
     ```undefined```
     
     ## Usage-Information
@@ -25,7 +25,7 @@
     
     ## License
     
-    MIT License
+    MIT
     
     ## Contribution-Guidelines
     
@@ -33,7 +33,7 @@
     
     ## Test-Instructions
     
-    Answer all questions to complete
+    None
     
     ## Questions
     
